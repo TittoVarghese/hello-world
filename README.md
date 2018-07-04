@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+The changes for new development is done in feature branch and commited.
